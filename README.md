@@ -8,7 +8,7 @@ A feature-rich WhatsApp-inspired Android application built with **Jetpack Compos
 
 | Splash Screen | Welcome Screen | Registration |
 |---|---|---|
-| ![Splash](screenshot/splash.png) | ![Welcome](screenshot/welcome.png) | ![Register](screenshot/register.png) |
+| ![Splash](screenshot/splash.png) | ![Register](screenshot/register.png) |
 
 | Home / Chats | Call Screen | Updates / Status |
 |---|---|---|
