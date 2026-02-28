@@ -8,17 +8,17 @@ A feature-rich WhatsApp-inspired Android application built with **Jetpack Compos
 
 | Splash Screen | Welcome Screen | Registration |
 |---|---|---|
-| ![Splash](screenshots/splash.png) | ![Welcome](screenshots/welcome.png) | ![Register](screenshots/register.png) |
+| ![Splash](screenshot/splash.png) | ![Welcome](screenshot/welcome.png) | ![Register](screenshot/register.png) |
 
 | Home / Chats | Call Screen | Updates / Status |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![Calls](screenshots/calls.png) | ![Updates](screenshots/updates.png) |
+| ![Home](screenshot/home.png) | ![Calls](screenshot/calls.png) | ![Updates](screenshot/updates.png) |
 
 | Communities | Profile |
 |---|---|
-| ![Communities](screenshots/communities.png) | ![Profile](screenshots/profile.png) |
+| ![Communities](screenshot/communities.png) | ![Profile](screenshot/profile.png) |
 
-> 💡 Add your screenshots inside a `/screenshots` folder in the root of your project and update the paths above.
+
 
 ---
 
